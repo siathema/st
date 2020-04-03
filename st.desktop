@@ -1,0 +1,6 @@
+[Desktop Entry]
+Version=0.8.2
+Type=Application
+Name=st
+Comment=The Patrician's terminal emulator
+Exec=st
